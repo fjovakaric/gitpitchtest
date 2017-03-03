@@ -9,6 +9,8 @@ $('button').click(function(){
 ```
 This is the first slide
 
+#VSLIDE?gist=c5125dda9f10f97b995b781c7f1e562d
+
 #HSLIDE
 ## NEw slide
 
