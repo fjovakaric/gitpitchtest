@@ -1,2 +1,3 @@
 background : http://rbt.rs/images/rbt-logo-mono-transp.png
-background-size : cover
+logo: https://assets-cdn.github.com/images/modules/logos_page/Octocat.png
+footnote : "Milos Radic Intro to Git"
