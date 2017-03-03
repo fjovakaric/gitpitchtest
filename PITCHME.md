@@ -2,9 +2,10 @@
 
 This is the first slide
 
-#VSLIDE
+#HSLIDE
+## NEw slide
 
-# Code slide
+#VSLIDE
 ## H2
 ### H3
 // jQuery
