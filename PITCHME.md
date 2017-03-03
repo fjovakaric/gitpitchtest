@@ -16,7 +16,7 @@ Git pitch uses markdown
 
 #HSLIDE
 ### Image slide
-<img src="http://theawkwardyeti.com/wp-content/uploads/2017/02/011717_Nothing-1024x1024.png" alt="Drawing" width"400"/>
+<img src="http://theawkwardyeti.com/wp-content/uploads/2017/02/011717_Nothing-1024x1024.png" alt="Drawing" width="400"/>
 
 #VSLIDE
 ### Headers
@@ -26,13 +26,6 @@ Git pitch uses markdown
 #### H4
 ##### H5
 ###### H6
-
-#VSLIDE
-### Lists
-- unordered one
-- unordered two
-1. ordered one
-2. ordered two
 
 #HSLIDE
 ### Code slides
