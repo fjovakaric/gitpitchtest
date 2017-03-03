@@ -1,2 +1,4 @@
 background : http://rbt.rs/images/rbt-logo-mono-transp.png
+background-size : auto
+
 footnote : "Milos Radic Intro to Git"
