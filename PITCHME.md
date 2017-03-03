@@ -33,3 +33,15 @@ Git pitch uses markdown
 - unordered two
 1. ordered one
 2. ordered two
+
+#HSLIDE
+### Code slides
+```javascript
+function(params) {
+  doAmazingCrap(params)
+}
+```
+- [using markdown](https://github.com/gitpitch/gitpitch/wiki/Code-Slides)
+
+#VSLIDE?gist=c5125dda9f10f97b995b781c7f1e562d
+- [using gists](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides)
