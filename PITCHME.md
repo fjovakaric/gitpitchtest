@@ -16,7 +16,7 @@ Git pitch uses markdown
 
 #HSLIDE
 ### Image slide
-- ![alt text](http://theawkwardyeti.com/wp-content/uploads/2017/02/011717_Nothing-1024x1024.png=350x350)
+![alt text](http://theawkwardyeti.com/wp-content/uploads/2017/02/011717_Nothing-1024x1024.png =350x350)
 
 #VSLIDE
 ### Headers
