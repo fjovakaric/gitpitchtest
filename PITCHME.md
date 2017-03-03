@@ -1,13 +1,4 @@
 #HSLIDE
-
-This is the first slide
-
-#HSLIDE
-## NEw slide
-
-#VSLIDE
-## H2
-### H3
 ```javascript
 $('button').click(function(){
     $('h1, h2, p').addClass('blue')
@@ -16,6 +7,15 @@ $('button').click(function(){
     $('#foo').attr('alt', 'Lorem Ipsum')
 });
 ```
+This is the first slide
+
+#HSLIDE
+## NEw slide
+
+#VSLIDE
+## H2
+### H3
+
 
 #HSLIDE
 
